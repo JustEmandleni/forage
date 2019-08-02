@@ -1,4 +1,4 @@
-# Brief Documentation
+# Brief
 </br>
 </br></br>
 
