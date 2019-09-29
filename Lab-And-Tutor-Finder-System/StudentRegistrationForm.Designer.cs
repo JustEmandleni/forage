@@ -70,10 +70,10 @@
             // 
             // firstNameTextBox
             // 
-            this.firstNameTextBox.Font = new System.Drawing.Font("Consolas", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.firstNameTextBox.Font = new System.Drawing.Font("Consolas", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.firstNameTextBox.Location = new System.Drawing.Point(55, 238);
             this.firstNameTextBox.Name = "firstNameTextBox";
-            this.firstNameTextBox.Size = new System.Drawing.Size(262, 30);
+            this.firstNameTextBox.Size = new System.Drawing.Size(262, 25);
             this.firstNameTextBox.TabIndex = 5;
             // 
             // firstNameLabel
@@ -89,10 +89,10 @@
             // 
             // lastNameTextBox
             // 
-            this.lastNameTextBox.Font = new System.Drawing.Font("Consolas", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lastNameTextBox.Font = new System.Drawing.Font("Consolas", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lastNameTextBox.Location = new System.Drawing.Point(55, 316);
             this.lastNameTextBox.Name = "lastNameTextBox";
-            this.lastNameTextBox.Size = new System.Drawing.Size(262, 30);
+            this.lastNameTextBox.Size = new System.Drawing.Size(262, 25);
             this.lastNameTextBox.TabIndex = 7;
             // 
             // lastNameLabel
@@ -108,10 +108,10 @@
             // 
             // userNameTextBox
             // 
-            this.userNameTextBox.Font = new System.Drawing.Font("Consolas", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.userNameTextBox.Font = new System.Drawing.Font("Consolas", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.userNameTextBox.Location = new System.Drawing.Point(55, 397);
             this.userNameTextBox.Name = "userNameTextBox";
-            this.userNameTextBox.Size = new System.Drawing.Size(262, 30);
+            this.userNameTextBox.Size = new System.Drawing.Size(262, 25);
             this.userNameTextBox.TabIndex = 9;
             // 
             // userNameLabel
@@ -127,10 +127,10 @@
             // 
             // passwordTextBox
             // 
-            this.passwordTextBox.Font = new System.Drawing.Font("Consolas", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.passwordTextBox.Font = new System.Drawing.Font("Consolas", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.passwordTextBox.Location = new System.Drawing.Point(55, 477);
             this.passwordTextBox.Name = "passwordTextBox";
-            this.passwordTextBox.Size = new System.Drawing.Size(262, 30);
+            this.passwordTextBox.Size = new System.Drawing.Size(262, 25);
             this.passwordTextBox.TabIndex = 11;
             this.passwordTextBox.UseSystemPasswordChar = true;
             // 
@@ -147,10 +147,10 @@
             // 
             // retypePasswordTextBox
             // 
-            this.retypePasswordTextBox.Font = new System.Drawing.Font("Consolas", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.retypePasswordTextBox.Font = new System.Drawing.Font("Consolas", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.retypePasswordTextBox.Location = new System.Drawing.Point(56, 568);
             this.retypePasswordTextBox.Name = "retypePasswordTextBox";
-            this.retypePasswordTextBox.Size = new System.Drawing.Size(262, 30);
+            this.retypePasswordTextBox.Size = new System.Drawing.Size(262, 25);
             this.retypePasswordTextBox.TabIndex = 13;
             this.retypePasswordTextBox.UseSystemPasswordChar = true;
             // 

@@ -5,76 +5,132 @@ using System.Windows.Forms;
 
 namespace Lab_And_Tutor_Finder_System
 {
+    /// <summary>
+    /// Project: Forage
+    /// Programmer: Emandleni Moyo s216673380@mandela.ac.za
+    /// Programmer: Lavhelesani Mamphwe  s217055443@mandela.ac.za
+    /// Date: 2019/07/11
+    /// Date: 2019/09/19
+    /// Date: 2019/09/25
+    /// Date: 2019/09/29
+    /// Description: This class defines the behavior of the tutor registration form.
+    /// </summary>
+    /// 
+
+    [System.Runtime.InteropServices.Guid("1F9B47EF-9D7E-42B6-A429-F4F18F3A4AEA")]
     public partial class TutorRegistrationForm : Form
     {
-        /// <summary>
-        /// Project: Forage
-        /// Programmer: Emandleni Moyo s216673380@mandela.ac.za
-        /// Date: 2019/07/11
-        /// Description: This class defines the behavior of the tutor registration form.
-        /// </summary>
+        string CONNECTION_STRING = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\Admin\Documents\TEAM_12_ULTRON_3_FORAGE_DATABASE.mdf;Integrated Security=True;Connect Timeout=30";
+
+        SqlConnection CONNECTION;
+        SqlDataAdapter DATA_ADAPTER;
+        DataSet DATA_SET;
+
         public TutorRegistrationForm()
         {
             InitializeComponent();
+            CONNECTION = new SqlConnection(CONNECTION_STRING);
         }
 
         private void Form3_Load(object sender, EventArgs e)
         {
             qualificationComboBox.SelectedIndex = 0;
+
+            if (CONNECTION.State == ConnectionState.Closed)
+                CONNECTION.Open();
+
+            string SQL_QUERY_ = "SELECT * FROM TUTOR";
+            DATA_ADAPTER = new SqlDataAdapter(SQL_QUERY_, CONNECTION);
+            DATA_SET = new DataSet();
+            DATA_ADAPTER.Fill(DATA_SET, "TUTOR");
+
+            CONNECTION.Close();
         }
 
-        /**
-         * Registers user onto system.
-         * If the user does not have an existing account, creates a new account and shows the tutor dashboard.
-         **/
-        private void buttonRegister_Click(object sender, EventArgs e)
+       
+        private void nextButtonClick_(object sender, EventArgs e)
         {
-            SqlConnection connection = new SqlConnection(@"Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=Project-Information-System;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=True;ApplicationIntent=ReadWrite;MultiSubnetFailover=False");
 
-            connection.Open();
-
-            if (!isExisting(userNameTextBox.Text, connection))
+            if (matchingPassword())
             {
-                SqlCommand command = new SqlCommand(@"INSERT INTO Tutor VALUES 
-                   ('"+ userNameTextBox.Text + "', '"+ passwordTextBox.Text + "', '"+ firstNameTextBox.Text + "', '"+ lastNameTextBox.Text + "', '"+qualificationComboBox.SelectedIndex+"', "+0+", "+numericUpDown1.Value+", '"+"empty"+"')", connection);
-
-                command.ExecuteNonQuery();
-                connection.Close();
-
-                MessageBox.Show("Successfully registered " + firstNameTextBox.Text + "!", "Complete", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                this.Hide();
-                new TutorDashboardForm().Show();
+                perfomRegistration();
+                Hide();
+                SelectModulesForm SMF = new SelectModulesForm(userNameTextBox.Text);
+                SMF.Show();
             }
-            else //If the user has an existing account 
+            else
+            {
+                MessageBox.Show("Passwords Do Not Match", "Re-enter Password", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                passwordTextBox.Clear();
+                retypePasswordTextBox.Clear();
+            }
+            
+        }
+
+        private void perfomRegistration()
+        {
+            if (CONNECTION.State == ConnectionState.Closed)
+                CONNECTION.Open();
+
+            if (!isExisting(userNameTextBox.Text, CONNECTION))
+            {
+                
+                SqlCommand COMMAND = new SqlCommand(@"INSERT INTO TUTOR "+
+                    "(tutorUsername, tutorPassword, tutorFName, tutorLName, tutorQualif, tutorYear)"+
+                    "VALUES (@tutorUsername, @tutorPassword, @tutorFName, @tutorLName, @tutorQualif, @tutorYear)", CONNECTION);
+
+                COMMAND.Parameters.Add("@tutorUsername", SqlDbType.NVarChar);
+                COMMAND.Parameters.Add("@tutorPassword", SqlDbType.NVarChar);
+                COMMAND.Parameters.Add("@tutorFName", SqlDbType.NVarChar);
+                COMMAND.Parameters.Add("@tutorLName", SqlDbType.NVarChar);
+                COMMAND.Parameters.Add("@tutorQualif", SqlDbType.Int);
+                COMMAND.Parameters.Add("@tutorYear", SqlDbType.Int);
+
+                COMMAND.Parameters["@tutorUsername"].Value = userNameTextBox.Text;
+                COMMAND.Parameters["@tutorPassword"].Value = passwordTextBox.Text;
+                COMMAND.Parameters["@tutorFName"].Value = firstNameTextBox.Text;
+                COMMAND.Parameters["@tutorLName"].Value = lastNameTextBox.Text;
+                COMMAND.Parameters["@tutorQualif"].Value = qualificationComboBox.SelectedIndex;
+                COMMAND.Parameters["@tutorYear"].Value = numericUpDown1.Value;
+
+                COMMAND.ExecuteNonQuery();
+                Hide();
+            }
+            else
             {
                 MessageBox.Show("We already know you here " + firstNameTextBox.Text + "! Rather log in.", "Account already exists", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
+
+            CONNECTION.Close();
         }
 
-        /**
-         *  Verifies that the tutor user does not have an existing account on the system
-         **/
         private bool isExisting(string str1, SqlConnection connection)
         {
             string selectQuery = "SELECT * FROM Tutor WHERE tutorUsername = '" + str1 + "'";
-            //Gets hold of the result set generated by the SQL query
-            SqlDataAdapter dataAdapter = new SqlDataAdapter(selectQuery, connection);
-            DataTable dataTable = new DataTable();
-            dataAdapter.Fill(dataTable);
+         
+            DATA_ADAPTER = new SqlDataAdapter(selectQuery, connection);
+            DataTable DATA_TABLE = new DataTable();
+            DATA_ADAPTER.Fill(DATA_TABLE);
 
-            //Iterates through the result set, if there is a row matching
-            if (dataTable.Rows.Count > 0)
+            
+            if (DATA_TABLE.Rows.Count > 0)
                 return true;
             else return false;
         }
 
-        /**
-         *  Redirects user to log in window
-         **/
+        
         private void cancelButton_Click(object sender, EventArgs e)
         {
-            this.Hide();
+            Hide();
             new LoginForm().Show();
         }
+
+        private bool matchingPassword()
+        {
+            if (passwordTextBox.Text.Equals(retypePasswordTextBox.Text))
+                return true;
+            else return false;
+        }
+
     }
 }

@@ -37,6 +37,7 @@
             this.ClientSize = new System.Drawing.Size(502, 496);
             this.Name = "TutorDashboardForm";
             this.Text = "TutorDashboardForm";
+            this.Load += new System.EventHandler(this.TutorDashboardForm_Load);
             this.ResumeLayout(false);
 
         }

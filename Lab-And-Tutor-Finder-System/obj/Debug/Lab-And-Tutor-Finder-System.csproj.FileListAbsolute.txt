@@ -1,0 +1,126 @@
+C:\Users\Admin\Downloads\forage-master\forage-master\Lab-And-Tutor-Finder-System\bin\Debug\Lab-And-Tutor-Finder-System.exe.config
+C:\Users\Admin\Downloads\forage-master\forage-master\Lab-And-Tutor-Finder-System\bin\Debug\Lab-And-Tutor-Finder-System.exe
+C:\Users\Admin\Downloads\forage-master\forage-master\Lab-And-Tutor-Finder-System\bin\Debug\Lab-And-Tutor-Finder-System.pdb
+C:\Users\Admin\Downloads\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab-And-Tutor-Finder-System.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Downloads\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab_And_Tutor_Finder_System.LoginForm.resources
+C:\Users\Admin\Downloads\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab_And_Tutor_Finder_System.MachinesForm.resources
+C:\Users\Admin\Downloads\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab_And_Tutor_Finder_System.StudentRegistrationForm.resources
+C:\Users\Admin\Downloads\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab_And_Tutor_Finder_System.TutorDashboardForm.resources
+C:\Users\Admin\Downloads\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab_And_Tutor_Finder_System.TutorRegistrationForm.resources
+C:\Users\Admin\Downloads\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab_And_Tutor_Finder_System.Properties.Resources.resources
+C:\Users\Admin\Downloads\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab-And-Tutor-Finder-System.csproj.GenerateResource.Cache
+C:\Users\Admin\Downloads\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab-And-Tutor-Finder-System.exe
+C:\Users\Admin\Downloads\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab-And-Tutor-Finder-System.pdb
+C:\Users\Admin\Downloads\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab_And_Tutor_Finder_System.TutorListForm.resources
+C:\Users\Admin\Downloads\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab_And_Tutor_Finder_System.ModuleListItem.resources
+C:\Users\Admin\Downloads\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab_And_Tutor_Finder_System.ManageTutorsForm.resources
+C:\Users\Admin\Downloads\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab_And_Tutor_Finder_System.AdminDashboardForm.resources
+C:\Users\Admin\Downloads\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab_And_Tutor_Finder_System.ManageStudentsForm.resources
+C:\Users\Admin\Downloads\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab_And_Tutor_Finder_System.StudentEntryForm.resources
+C:\Users\Admin\Downloads\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab_And_Tutor_Finder_System.ViewTutorProfileForm.resources
+C:\Users\Wande\Documents\WRR\New folder\forage-09-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\bin\Debug\Lab-And-Tutor-Finder-System.exe.config
+C:\Users\Wande\Documents\WRR\New folder\forage-09-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\bin\Debug\Lab-And-Tutor-Finder-System.exe
+C:\Users\Wande\Documents\WRR\New folder\forage-09-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\bin\Debug\Lab-And-Tutor-Finder-System.pdb
+C:\Users\Wande\Documents\WRR\New folder\forage-09-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab-And-Tutor-Finder-System.csprojAssemblyReference.cache
+C:\Users\Wande\Documents\WRR\New folder\forage-09-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab_And_Tutor_Finder_System.AdminDashboardForm.resources
+C:\Users\Wande\Documents\WRR\New folder\forage-09-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab_And_Tutor_Finder_System.ManageStudentsForm.resources
+C:\Users\Wande\Documents\WRR\New folder\forage-09-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab_And_Tutor_Finder_System.ManageTutorsForm.resources
+C:\Users\Wande\Documents\WRR\New folder\forage-09-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab_And_Tutor_Finder_System.LoginForm.resources
+C:\Users\Wande\Documents\WRR\New folder\forage-09-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab_And_Tutor_Finder_System.MachinesForm.resources
+C:\Users\Wande\Documents\WRR\New folder\forage-09-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab_And_Tutor_Finder_System.ModuleListItem.resources
+C:\Users\Wande\Documents\WRR\New folder\forage-09-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab_And_Tutor_Finder_System.StudentEntryForm.resources
+C:\Users\Wande\Documents\WRR\New folder\forage-09-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab_And_Tutor_Finder_System.StudentRegistrationForm.resources
+C:\Users\Wande\Documents\WRR\New folder\forage-09-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab_And_Tutor_Finder_System.TutorDashboardForm.resources
+C:\Users\Wande\Documents\WRR\New folder\forage-09-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab_And_Tutor_Finder_System.TutorListForm.resources
+C:\Users\Wande\Documents\WRR\New folder\forage-09-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab_And_Tutor_Finder_System.TutorRegistrationForm.resources
+C:\Users\Wande\Documents\WRR\New folder\forage-09-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab_And_Tutor_Finder_System.Properties.Resources.resources
+C:\Users\Wande\Documents\WRR\New folder\forage-09-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab_And_Tutor_Finder_System.ViewTutorProfileForm.resources
+C:\Users\Wande\Documents\WRR\New folder\forage-09-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab-And-Tutor-Finder-System.csproj.GenerateResource.cache
+C:\Users\Wande\Documents\WRR\New folder\forage-09-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab-And-Tutor-Finder-System.csproj.CoreCompileInputs.cache
+C:\Users\Wande\Documents\WRR\New folder\forage-09-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab-And-Tutor-Finder-System.exe
+C:\Users\Wande\Documents\WRR\New folder\forage-09-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab-And-Tutor-Finder-System.pdb
+C:\Users\Wande\Documents\WRR\New folder\forage-16-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\bin\Debug\Lab-And-Tutor-Finder-System.exe.config
+C:\Users\Wande\Documents\WRR\New folder\forage-16-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\bin\Debug\Lab-And-Tutor-Finder-System.exe
+C:\Users\Wande\Documents\WRR\New folder\forage-16-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\bin\Debug\Lab-And-Tutor-Finder-System.pdb
+C:\Users\Wande\Documents\WRR\New folder\forage-16-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab-And-Tutor-Finder-System.csprojAssemblyReference.cache
+C:\Users\Wande\Documents\WRR\New folder\forage-16-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab_And_Tutor_Finder_System.AdminDashboardForm.resources
+C:\Users\Wande\Documents\WRR\New folder\forage-16-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab_And_Tutor_Finder_System.ManageStudentsForm.resources
+C:\Users\Wande\Documents\WRR\New folder\forage-16-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab_And_Tutor_Finder_System.ManageTutorsForm.resources
+C:\Users\Wande\Documents\WRR\New folder\forage-16-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab_And_Tutor_Finder_System.LoginForm.resources
+C:\Users\Wande\Documents\WRR\New folder\forage-16-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab_And_Tutor_Finder_System.MachinesForm.resources
+C:\Users\Wande\Documents\WRR\New folder\forage-16-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab_And_Tutor_Finder_System.ModuleListItem.resources
+C:\Users\Wande\Documents\WRR\New folder\forage-16-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab_And_Tutor_Finder_System.StudentEntryForm.resources
+C:\Users\Wande\Documents\WRR\New folder\forage-16-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab_And_Tutor_Finder_System.StudentRegistrationForm.resources
+C:\Users\Wande\Documents\WRR\New folder\forage-16-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab_And_Tutor_Finder_System.TutorDashboardForm.resources
+C:\Users\Wande\Documents\WRR\New folder\forage-16-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab_And_Tutor_Finder_System.TutorListForm.resources
+C:\Users\Wande\Documents\WRR\New folder\forage-16-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab_And_Tutor_Finder_System.TutorRegistrationForm.resources
+C:\Users\Wande\Documents\WRR\New folder\forage-16-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab_And_Tutor_Finder_System.Properties.Resources.resources
+C:\Users\Wande\Documents\WRR\New folder\forage-16-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab_And_Tutor_Finder_System.ViewTutorProfileForm.resources
+C:\Users\Wande\Documents\WRR\New folder\forage-16-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab-And-Tutor-Finder-System.csproj.GenerateResource.cache
+C:\Users\Wande\Documents\WRR\New folder\forage-16-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab-And-Tutor-Finder-System.csproj.CoreCompileInputs.cache
+C:\Users\Wande\Documents\WRR\New folder\forage-16-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab-And-Tutor-Finder-System.exe
+C:\Users\Wande\Documents\WRR\New folder\forage-16-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab-And-Tutor-Finder-System.pdb
+C:\Users\Admin\Desktop\Forage 20 09 2019\src-20-09-2019\forage-20-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\bin\Debug\Lab-And-Tutor-Finder-System.exe.config
+C:\Users\Admin\Desktop\Forage 20 09 2019\src-20-09-2019\forage-20-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab-And-Tutor-Finder-System.exe
+C:\Users\Admin\Desktop\Forage 20 09 2019\src-20-09-2019\forage-20-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab-And-Tutor-Finder-System.pdb
+C:\Users\Admin\Desktop\Forage-20-09-2019\src-20-09-2019\forage-20-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\bin\Debug\Lab-And-Tutor-Finder-System.exe.config
+C:\Users\Admin\Desktop\Forage-20-09-2019\src-20-09-2019\forage-20-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab-And-Tutor-Finder-System.exe
+C:\Users\Admin\Desktop\Forage-20-09-2019\src-20-09-2019\forage-20-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab-And-Tutor-Finder-System.pdb
+C:\Users\Admin\Desktop\Forage-20-09-2019\src-20-09-2019\forage-20-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\bin\Debug\Lab-And-Tutor-Finder-System.exe
+C:\Users\Admin\Desktop\Forage-20-09-2019\src-20-09-2019\forage-20-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\bin\Debug\Lab-And-Tutor-Finder-System.pdb
+C:\Users\Admin\Desktop\Forage-20-09-2019\src-20-09-2019\forage-20-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab-And-Tutor-Finder-System.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Forage-20-09-2019\src-20-09-2019\forage-20-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab_And_Tutor_Finder_System.AdminDashboardForm.resources
+C:\Users\Admin\Desktop\Forage-20-09-2019\src-20-09-2019\forage-20-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab_And_Tutor_Finder_System.ManageStudentsForm.resources
+C:\Users\Admin\Desktop\Forage-20-09-2019\src-20-09-2019\forage-20-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab_And_Tutor_Finder_System.ManageTutorsForm.resources
+C:\Users\Admin\Desktop\Forage-20-09-2019\src-20-09-2019\forage-20-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab_And_Tutor_Finder_System.LoginForm.resources
+C:\Users\Admin\Desktop\Forage-20-09-2019\src-20-09-2019\forage-20-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab_And_Tutor_Finder_System.MachinesForm.resources
+C:\Users\Admin\Desktop\Forage-20-09-2019\src-20-09-2019\forage-20-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab_And_Tutor_Finder_System.StudentEntryForm.resources
+C:\Users\Admin\Desktop\Forage-20-09-2019\src-20-09-2019\forage-20-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab_And_Tutor_Finder_System.StudentRegistrationForm.resources
+C:\Users\Admin\Desktop\Forage-20-09-2019\src-20-09-2019\forage-20-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab_And_Tutor_Finder_System.TutorDashboardForm.resources
+C:\Users\Admin\Desktop\Forage-20-09-2019\src-20-09-2019\forage-20-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab_And_Tutor_Finder_System.TutorListForm.resources
+C:\Users\Admin\Desktop\Forage-20-09-2019\src-20-09-2019\forage-20-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab_And_Tutor_Finder_System.TutorRegistrationForm.resources
+C:\Users\Admin\Desktop\Forage-20-09-2019\src-20-09-2019\forage-20-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab_And_Tutor_Finder_System.Properties.Resources.resources
+C:\Users\Admin\Desktop\Forage-20-09-2019\src-20-09-2019\forage-20-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab_And_Tutor_Finder_System.ViewTutorProfileForm.resources
+C:\Users\Admin\Desktop\Forage-20-09-2019\src-20-09-2019\forage-20-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab-And-Tutor-Finder-System.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Forage-20-09-2019\src-20-09-2019\forage-20-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab_And_Tutor_Finder_System.SelectModulesForm.resources
+C:\Users\Admin\Desktop\Forage-20-09-2019\src-25-09-2019\forage-25-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\bin\Debug\Lab-And-Tutor-Finder-System.exe.config
+C:\Users\Admin\Desktop\Forage-20-09-2019\src-25-09-2019\forage-25-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab-And-Tutor-Finder-System.exe
+C:\Users\Admin\Desktop\Forage-20-09-2019\src-25-09-2019\forage-25-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab-And-Tutor-Finder-System.pdb
+C:\Users\Admin\Desktop\Forage-20-09-2019\src-25-09-2019\forage-25-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\bin\Debug\Lab-And-Tutor-Finder-System.exe
+C:\Users\Admin\Desktop\Forage-20-09-2019\src-25-09-2019\forage-25-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\bin\Debug\Lab-And-Tutor-Finder-System.pdb
+C:\Users\Admin\Desktop\Forage-20-09-2019\src-25-09-2019\forage-25-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab-And-Tutor-Finder-System.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Forage-20-09-2019\src-25-09-2019\forage-25-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab_And_Tutor_Finder_System.AdminDashboardForm.resources
+C:\Users\Admin\Desktop\Forage-20-09-2019\src-25-09-2019\forage-25-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab_And_Tutor_Finder_System.ManageStudentsForm.resources
+C:\Users\Admin\Desktop\Forage-20-09-2019\src-25-09-2019\forage-25-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab_And_Tutor_Finder_System.ManageTutorsForm.resources
+C:\Users\Admin\Desktop\Forage-20-09-2019\src-25-09-2019\forage-25-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab_And_Tutor_Finder_System.LoginForm.resources
+C:\Users\Admin\Desktop\Forage-20-09-2019\src-25-09-2019\forage-25-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab_And_Tutor_Finder_System.SelectModulesForm.resources
+C:\Users\Admin\Desktop\Forage-20-09-2019\src-25-09-2019\forage-25-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab_And_Tutor_Finder_System.StudentEntryForm.resources
+C:\Users\Admin\Desktop\Forage-20-09-2019\src-25-09-2019\forage-25-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab_And_Tutor_Finder_System.StudentRegistrationForm.resources
+C:\Users\Admin\Desktop\Forage-20-09-2019\src-25-09-2019\forage-25-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab_And_Tutor_Finder_System.TutorDashboardForm.resources
+C:\Users\Admin\Desktop\Forage-20-09-2019\src-25-09-2019\forage-25-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab_And_Tutor_Finder_System.TutorListForm.resources
+C:\Users\Admin\Desktop\Forage-20-09-2019\src-25-09-2019\forage-25-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab_And_Tutor_Finder_System.TutorRegistrationForm.resources
+C:\Users\Admin\Desktop\Forage-20-09-2019\src-25-09-2019\forage-25-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab_And_Tutor_Finder_System.Properties.Resources.resources
+C:\Users\Admin\Desktop\Forage-20-09-2019\src-25-09-2019\forage-25-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab_And_Tutor_Finder_System.ViewTutorProfileForm.resources
+C:\Users\Admin\Desktop\Forage-20-09-2019\src-25-09-2019\forage-25-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab-And-Tutor-Finder-System.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Forage-20-09-2019\src-25-09-2019\forage-25-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab_And_Tutor_Finder_System.DisplayMachinesForm.resources
+C:\Users\Admin\Desktop\Forage-20-09-2019\src-28-09-2019\forage-28-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\bin\Debug\Lab-And-Tutor-Finder-System.exe.config
+C:\Users\Admin\Desktop\Forage-20-09-2019\src-28-09-2019\forage-28-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab-And-Tutor-Finder-System.exe
+C:\Users\Admin\Desktop\Forage-20-09-2019\src-28-09-2019\forage-28-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab-And-Tutor-Finder-System.pdb
+C:\Users\Admin\Desktop\Forage-20-09-2019\src-28-09-2019\forage-28-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\bin\Debug\Lab-And-Tutor-Finder-System.exe
+C:\Users\Admin\Desktop\Forage-20-09-2019\src-28-09-2019\forage-28-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\bin\Debug\Lab-And-Tutor-Finder-System.pdb
+C:\Users\Admin\Desktop\Forage-20-09-2019\src-28-09-2019\forage-28-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab-And-Tutor-Finder-System.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Forage-20-09-2019\src-28-09-2019\forage-28-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab_And_Tutor_Finder_System.AdminDashboardForm.resources
+C:\Users\Admin\Desktop\Forage-20-09-2019\src-28-09-2019\forage-28-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab_And_Tutor_Finder_System.ManageStudentsForm.resources
+C:\Users\Admin\Desktop\Forage-20-09-2019\src-28-09-2019\forage-28-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab_And_Tutor_Finder_System.ManageTutorsForm.resources
+C:\Users\Admin\Desktop\Forage-20-09-2019\src-28-09-2019\forage-28-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab_And_Tutor_Finder_System.LoginForm.resources
+C:\Users\Admin\Desktop\Forage-20-09-2019\src-28-09-2019\forage-28-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab_And_Tutor_Finder_System.DisplayMachinesForm.resources
+C:\Users\Admin\Desktop\Forage-20-09-2019\src-28-09-2019\forage-28-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab_And_Tutor_Finder_System.SelectModulesForm.resources
+C:\Users\Admin\Desktop\Forage-20-09-2019\src-28-09-2019\forage-28-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab_And_Tutor_Finder_System.StudentEntryForm.resources
+C:\Users\Admin\Desktop\Forage-20-09-2019\src-28-09-2019\forage-28-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab_And_Tutor_Finder_System.StudentRegistrationForm.resources
+C:\Users\Admin\Desktop\Forage-20-09-2019\src-28-09-2019\forage-28-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab_And_Tutor_Finder_System.TutorDashboardForm.resources
+C:\Users\Admin\Desktop\Forage-20-09-2019\src-28-09-2019\forage-28-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab_And_Tutor_Finder_System.TutorListForm.resources
+C:\Users\Admin\Desktop\Forage-20-09-2019\src-28-09-2019\forage-28-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab_And_Tutor_Finder_System.TutorRegistrationForm.resources
+C:\Users\Admin\Desktop\Forage-20-09-2019\src-28-09-2019\forage-28-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab_And_Tutor_Finder_System.Properties.Resources.resources
+C:\Users\Admin\Desktop\Forage-20-09-2019\src-28-09-2019\forage-28-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab_And_Tutor_Finder_System.DisplayTutorProfileForm.resources
+C:\Users\Admin\Desktop\Forage-20-09-2019\src-28-09-2019\forage-28-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab-And-Tutor-Finder-System.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Forage-20-09-2019\src-28-09-2019\forage-28-09-2019\forage-master\forage-master\Lab-And-Tutor-Finder-System\obj\Debug\Lab_And_Tutor_Finder_System.DisplayTutors.resources

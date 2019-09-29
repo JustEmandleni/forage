@@ -54,6 +54,7 @@
             this.forageLabel.Size = new System.Drawing.Size(190, 66);
             this.forageLabel.TabIndex = 0;
             this.forageLabel.Text = "FORAGE";
+            this.forageLabel.Click += new System.EventHandler(this.forageLabel_Click);
             // 
             // usernameLabel
             // 
@@ -68,10 +69,10 @@
             // 
             // usernameTextBox
             // 
-            this.usernameTextBox.Font = new System.Drawing.Font("Consolas", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.usernameTextBox.Font = new System.Drawing.Font("Consolas", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.usernameTextBox.Location = new System.Drawing.Point(34, 234);
             this.usernameTextBox.Name = "usernameTextBox";
-            this.usernameTextBox.Size = new System.Drawing.Size(262, 30);
+            this.usernameTextBox.Size = new System.Drawing.Size(262, 25);
             this.usernameTextBox.TabIndex = 3;
             // 
             // passwordLabel
@@ -87,10 +88,10 @@
             // 
             // passwordTextBox
             // 
-            this.passwordTextBox.Font = new System.Drawing.Font("Consolas", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.passwordTextBox.Font = new System.Drawing.Font("Consolas", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.passwordTextBox.Location = new System.Drawing.Point(35, 311);
             this.passwordTextBox.Name = "passwordTextBox";
-            this.passwordTextBox.Size = new System.Drawing.Size(262, 30);
+            this.passwordTextBox.Size = new System.Drawing.Size(262, 25);
             this.passwordTextBox.TabIndex = 5;
             this.passwordTextBox.UseSystemPasswordChar = true;
             // 
@@ -129,7 +130,7 @@
             // 
             // logoPictureBox
             // 
-            this.logoPictureBox.Image = global::Lab_And_Tutor_Finder_System.Properties.Resources.Application_Logo;
+            this.logoPictureBox.Image = ((System.Drawing.Image)(resources.GetObject("logoPictureBox.Image")));
             this.logoPictureBox.Location = new System.Drawing.Point(117, 86);
             this.logoPictureBox.Name = "logoPictureBox";
             this.logoPictureBox.Size = new System.Drawing.Size(100, 102);
@@ -140,7 +141,7 @@
             // roleComboBox
             // 
             this.roleComboBox.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.roleComboBox.Font = new System.Drawing.Font("Consolas", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.roleComboBox.Font = new System.Drawing.Font("Consolas", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.roleComboBox.FormattingEnabled = true;
             this.roleComboBox.Items.AddRange(new object[] {
             "Student",
@@ -148,7 +149,7 @@
             "Administrator"});
             this.roleComboBox.Location = new System.Drawing.Point(34, 384);
             this.roleComboBox.Name = "roleComboBox";
-            this.roleComboBox.Size = new System.Drawing.Size(262, 30);
+            this.roleComboBox.Size = new System.Drawing.Size(262, 26);
             this.roleComboBox.TabIndex = 9;
             this.roleComboBox.SelectedIndexChanged += new System.EventHandler(this.roleComboBox_SelectedIndexChanged);
             // 
@@ -185,7 +186,6 @@
             this.MaximizeBox = false;
             this.Name = "LoginForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Login";
             this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.logoPictureBox)).EndInit();
             this.ResumeLayout(false);

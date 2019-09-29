@@ -46,11 +46,30 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AdminDashBoard.cs">
+    <Compile Include="AdminDashboardForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="AdminDashBoard.Designer.cs">
-      <DependentUpon>AdminDashBoard.cs</DependentUpon>
+    <Compile Include="AdminDashboardForm.Designer.cs">
+      <DependentUpon>AdminDashboardForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DisplayTutors.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DisplayTutors.Designer.cs">
+      <DependentUpon>DisplayTutors.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Machine.cs" />
+    <Compile Include="ManageStudentsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManageStudentsForm.Designer.cs">
+      <DependentUpon>ManageStudentsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ManageTutorsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManageTutorsForm.Designer.cs">
+      <DependentUpon>ManageTutorsForm.cs</DependentUpon>
     </Compile>
     <Compile Include="LoginForm.cs">
       <SubType>Form</SubType>
@@ -58,17 +77,23 @@
     <Compile Include="LoginForm.Designer.cs">
       <DependentUpon>LoginForm.cs</DependentUpon>
     </Compile>
-    <Compile Include="MachinesForm.cs">
+    <Compile Include="DisplayMachinesForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="MachinesForm.Designer.cs">
-      <DependentUpon>MachinesForm.cs</DependentUpon>
+    <Compile Include="DisplayMachinesForm.Designer.cs">
+      <DependentUpon>DisplayMachinesForm.cs</DependentUpon>
     </Compile>
-    <Compile Include="StudentDashboardForm.cs">
+    <Compile Include="SelectModulesForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="StudentDashboardForm.Designer.cs">
-      <DependentUpon>StudentDashboardForm.cs</DependentUpon>
+    <Compile Include="SelectModulesForm.Designer.cs">
+      <DependentUpon>SelectModulesForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StudentEntryForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StudentEntryForm.Designer.cs">
+      <DependentUpon>StudentEntryForm.cs</DependentUpon>
     </Compile>
     <Compile Include="StudentRegistrationForm.cs">
       <SubType>Form</SubType>
@@ -82,6 +107,12 @@
     <Compile Include="TutorDashboardForm.Designer.cs">
       <DependentUpon>TutorDashboardForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="TutorListForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TutorListForm.Designer.cs">
+      <DependentUpon>TutorListForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="TutorRegistrationForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -90,23 +121,44 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="AdminDashBoard.resx">
-      <DependentUpon>AdminDashBoard.cs</DependentUpon>
+    <Compile Include="DisplayTutorProfileForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DisplayTutorProfileForm.Designer.cs">
+      <DependentUpon>DisplayTutorProfileForm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AdminDashboardForm.resx">
+      <DependentUpon>AdminDashboardForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DisplayTutors.resx">
+      <DependentUpon>DisplayTutors.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManageStudentsForm.resx">
+      <DependentUpon>ManageStudentsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManageTutorsForm.resx">
+      <DependentUpon>ManageTutorsForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="LoginForm.resx">
       <DependentUpon>LoginForm.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="MachinesForm.resx">
-      <DependentUpon>MachinesForm.cs</DependentUpon>
+    <EmbeddedResource Include="DisplayMachinesForm.resx">
+      <DependentUpon>DisplayMachinesForm.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="StudentDashboardForm.resx">
-      <DependentUpon>StudentDashboardForm.cs</DependentUpon>
+    <EmbeddedResource Include="SelectModulesForm.resx">
+      <DependentUpon>SelectModulesForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StudentEntryForm.resx">
+      <DependentUpon>StudentEntryForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="StudentRegistrationForm.resx">
       <DependentUpon>StudentRegistrationForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="TutorDashboardForm.resx">
       <DependentUpon>TutorDashboardForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TutorListForm.resx">
+      <DependentUpon>TutorListForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="TutorRegistrationForm.resx">
       <DependentUpon>TutorRegistrationForm.cs</DependentUpon>
@@ -121,6 +173,9 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="DisplayTutorProfileForm.resx">
+      <DependentUpon>DisplayTutorProfileForm.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -135,7 +190,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="resources\user.png" />
     <None Include="resources\Floor-plan-1.png" />
+    <None Include="resources\avatar.bmp" />
     <Content Include="resources\Tutor-explains-math-problem-icon-math-tutor-png-512_512_preview.png" />
     <Content Include="resources\Add-user-group-woman-icon-download-png-.png" />
     <Content Include="resources\Computer-2-icon.png" />

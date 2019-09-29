@@ -40,7 +40,7 @@
             this.passwordLabel = new System.Windows.Forms.Label();
             this.retypePasswordTextBox = new System.Windows.Forms.TextBox();
             this.retypePasswordLabel = new System.Windows.Forms.Label();
-            this.buttonRegister = new System.Windows.Forms.Button();
+            this.buttonNext = new System.Windows.Forms.Button();
             this.qualificationComboBox = new System.Windows.Forms.ComboBox();
             this.qualificationLabel = new System.Windows.Forms.Label();
             this.tutorPictureBox = new System.Windows.Forms.PictureBox();
@@ -65,10 +65,10 @@
             // 
             // firstNameTextBox
             // 
-            this.firstNameTextBox.Font = new System.Drawing.Font("Consolas", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.firstNameTextBox.Font = new System.Drawing.Font("Consolas", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.firstNameTextBox.Location = new System.Drawing.Point(55, 238);
             this.firstNameTextBox.Name = "firstNameTextBox";
-            this.firstNameTextBox.Size = new System.Drawing.Size(262, 30);
+            this.firstNameTextBox.Size = new System.Drawing.Size(262, 25);
             this.firstNameTextBox.TabIndex = 5;
             // 
             // firstNameLabel
@@ -84,10 +84,10 @@
             // 
             // lastNameTextBox
             // 
-            this.lastNameTextBox.Font = new System.Drawing.Font("Consolas", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lastNameTextBox.Font = new System.Drawing.Font("Consolas", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lastNameTextBox.Location = new System.Drawing.Point(55, 301);
             this.lastNameTextBox.Name = "lastNameTextBox";
-            this.lastNameTextBox.Size = new System.Drawing.Size(262, 30);
+            this.lastNameTextBox.Size = new System.Drawing.Size(262, 25);
             this.lastNameTextBox.TabIndex = 7;
             // 
             // lastNameLabel
@@ -103,10 +103,10 @@
             // 
             // userNameTextBox
             // 
-            this.userNameTextBox.Font = new System.Drawing.Font("Consolas", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.userNameTextBox.Font = new System.Drawing.Font("Consolas", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.userNameTextBox.Location = new System.Drawing.Point(55, 365);
             this.userNameTextBox.Name = "userNameTextBox";
-            this.userNameTextBox.Size = new System.Drawing.Size(262, 30);
+            this.userNameTextBox.Size = new System.Drawing.Size(262, 25);
             this.userNameTextBox.TabIndex = 9;
             // 
             // userNameLabel
@@ -122,10 +122,10 @@
             // 
             // passwordTextBox
             // 
-            this.passwordTextBox.Font = new System.Drawing.Font("Consolas", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.passwordTextBox.Font = new System.Drawing.Font("Consolas", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.passwordTextBox.Location = new System.Drawing.Point(55, 428);
             this.passwordTextBox.Name = "passwordTextBox";
-            this.passwordTextBox.Size = new System.Drawing.Size(262, 30);
+            this.passwordTextBox.Size = new System.Drawing.Size(262, 25);
             this.passwordTextBox.TabIndex = 11;
             this.passwordTextBox.UseSystemPasswordChar = true;
             // 
@@ -142,10 +142,10 @@
             // 
             // retypePasswordTextBox
             // 
-            this.retypePasswordTextBox.Font = new System.Drawing.Font("Consolas", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.retypePasswordTextBox.Font = new System.Drawing.Font("Consolas", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.retypePasswordTextBox.Location = new System.Drawing.Point(56, 492);
             this.retypePasswordTextBox.Name = "retypePasswordTextBox";
-            this.retypePasswordTextBox.Size = new System.Drawing.Size(262, 30);
+            this.retypePasswordTextBox.Size = new System.Drawing.Size(262, 25);
             this.retypePasswordTextBox.TabIndex = 13;
             this.retypePasswordTextBox.UseSystemPasswordChar = true;
             // 
@@ -160,16 +160,16 @@
             this.retypePasswordLabel.TabIndex = 12;
             this.retypePasswordLabel.Text = "Re-type Password";
             // 
-            // buttonRegister
+            // buttonNext
             // 
-            this.buttonRegister.Font = new System.Drawing.Font("Consolas", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.buttonRegister.Location = new System.Drawing.Point(56, 678);
-            this.buttonRegister.Name = "buttonRegister";
-            this.buttonRegister.Size = new System.Drawing.Size(100, 29);
-            this.buttonRegister.TabIndex = 14;
-            this.buttonRegister.Text = "Register";
-            this.buttonRegister.UseVisualStyleBackColor = true;
-            this.buttonRegister.Click += new System.EventHandler(this.buttonRegister_Click);
+            this.buttonNext.Font = new System.Drawing.Font("Consolas", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.buttonNext.Location = new System.Drawing.Point(56, 678);
+            this.buttonNext.Name = "buttonNext";
+            this.buttonNext.Size = new System.Drawing.Size(100, 29);
+            this.buttonNext.TabIndex = 14;
+            this.buttonNext.Text = "Next";
+            this.buttonNext.UseVisualStyleBackColor = true;
+            this.buttonNext.Click += new System.EventHandler(this.nextButtonClick_);
             // 
             // qualificationComboBox
             // 
@@ -231,7 +231,7 @@
             // 
             // numericUpDown1
             // 
-            this.numericUpDown1.Font = new System.Drawing.Font("Consolas", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.numericUpDown1.Font = new System.Drawing.Font("Consolas", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.numericUpDown1.Location = new System.Drawing.Point(56, 624);
             this.numericUpDown1.Maximum = new decimal(new int[] {
             4,
@@ -244,7 +244,7 @@
             0,
             0});
             this.numericUpDown1.Name = "numericUpDown1";
-            this.numericUpDown1.Size = new System.Drawing.Size(264, 32);
+            this.numericUpDown1.Size = new System.Drawing.Size(264, 25);
             this.numericUpDown1.TabIndex = 20;
             this.numericUpDown1.Value = new decimal(new int[] {
             2,
@@ -263,7 +263,7 @@
             this.Controls.Add(this.cancelButton);
             this.Controls.Add(this.qualificationLabel);
             this.Controls.Add(this.qualificationComboBox);
-            this.Controls.Add(this.buttonRegister);
+            this.Controls.Add(this.buttonNext);
             this.Controls.Add(this.retypePasswordTextBox);
             this.Controls.Add(this.retypePasswordLabel);
             this.Controls.Add(this.passwordTextBox);
@@ -304,7 +304,7 @@
         private System.Windows.Forms.Label passwordLabel;
         private System.Windows.Forms.TextBox retypePasswordTextBox;
         private System.Windows.Forms.Label retypePasswordLabel;
-        private System.Windows.Forms.Button buttonRegister;
+        private System.Windows.Forms.Button buttonNext;
         private System.Windows.Forms.ComboBox qualificationComboBox;
         private System.Windows.Forms.Label qualificationLabel;
         private System.Windows.Forms.Button cancelButton;
