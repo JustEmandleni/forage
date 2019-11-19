@@ -1,6 +1,7 @@
 # Brief
 </br>
 </br></br>
+
 The contribution of this project is at least twofold, the end-user is provided with either a
 computer machine or a competent tutor and on the other hand, administrative users are provided with a platform to extract
 close contact reports that can be used in capacity planning and forecasting, aside from the conventional application maintenance tasks.</br></br>
