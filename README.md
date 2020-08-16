@@ -11,5 +11,3 @@
 
 ![Form Find Machine](https://user-images.githubusercontent.com/26520289/61609866-b7f61200-ac57-11e9-8d14-487d341311a8.PNG)
 
-
-![2](https://user-images.githubusercontent.com/26520289/65835718-df1d2f80-e2e9-11e9-8a4c-961bdffa2bab.png)
