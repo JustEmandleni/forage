@@ -9,10 +9,6 @@ namespace Lab_And_Tutor_Finder_System
     /// Project: Forage
     /// Programmer: Emandleni Moyo s216673380@mandela.ac.za
     /// Programmer: Lavhelesani Mamphwe  s217055443@mandela.ac.za
-    /// Date: 2019/07/11
-    /// Date: 2019/09/19
-    /// Date: 2019/09/25
-    /// Date: 2019/09/29
     /// Description: This class defines the behavior of the tutor registration form.
     /// </summary>
     /// 
