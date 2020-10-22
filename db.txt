@@ -9,7 +9,7 @@ studentUsername [PK](NVARCHAR(50))
 studentPassword (NVARCHAR(50))
 studentFName (NVARCHAR(50))
 studentLName (NVARCHAR(50))
-*studentGender (INT) -1 = MALE 0 = FEMALE 
+*studentGender (INT) -1 = MALE
 
 TUTOR
 tutorUsername [PK] (NVARCHAR(50))
